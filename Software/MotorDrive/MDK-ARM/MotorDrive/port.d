@@ -1,0 +1,12 @@
+motordrive\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/port.c
+motordrive\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+motordrive\port.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+motordrive\port.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+motordrive\port.o: ../Core/Inc/FreeRTOSConfig.h
+motordrive\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+motordrive\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+motordrive\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+motordrive\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+motordrive\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+motordrive\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+motordrive\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

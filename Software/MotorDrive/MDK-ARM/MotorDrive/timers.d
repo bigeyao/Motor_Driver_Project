@@ -1,0 +1,15 @@
+motordrive\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/timers.c
+motordrive\timers.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+motordrive\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+motordrive\timers.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+motordrive\timers.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+motordrive\timers.o: ../Core/Inc/FreeRTOSConfig.h
+motordrive\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+motordrive\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+motordrive\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+motordrive\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+motordrive\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+motordrive\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+motordrive\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+motordrive\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h
+motordrive\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h

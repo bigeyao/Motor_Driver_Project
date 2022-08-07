@@ -1,0 +1,15 @@
+motordrive\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/queue.c
+motordrive\queue.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+motordrive\queue.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+motordrive\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+motordrive\queue.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+motordrive\queue.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+motordrive\queue.o: ../Core/Inc/FreeRTOSConfig.h
+motordrive\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+motordrive\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+motordrive\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+motordrive\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+motordrive\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+motordrive\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+motordrive\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+motordrive\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h

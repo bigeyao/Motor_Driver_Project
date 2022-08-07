@@ -1,0 +1,13 @@
+motordrive\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c
+motordrive\heap_4.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+motordrive\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+motordrive\heap_4.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+motordrive\heap_4.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+motordrive\heap_4.o: ../Core/Inc/FreeRTOSConfig.h
+motordrive\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+motordrive\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+motordrive\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+motordrive\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+motordrive\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+motordrive\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+motordrive\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
